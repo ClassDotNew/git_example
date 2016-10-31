@@ -1,1 +1,1 @@
-Here is some text. I didn't name this file. Jigamee did. 
+Here is some text. I didn't name this file; Jigmey did. 
